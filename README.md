@@ -5,6 +5,11 @@
 
 This is the repo I used to improve my FastAPI python skill
 
+# Techs used
+
+- SQLite3
+- Sqlalchemy
+
 # What have I learnt
 - **`CRUD`**: Create (POST), Read (GET), Update (PUT), Update (Patch), Delete (DELETE).
 
